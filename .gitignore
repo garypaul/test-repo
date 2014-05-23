@@ -1,0 +1,6 @@
+# no log files
+*.log
+#no files ending in ~
+*~
+#no files in tmp folder
+tmp/
